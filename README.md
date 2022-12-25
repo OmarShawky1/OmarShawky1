@@ -2,7 +2,7 @@
 
 I am a Self Taught programmer and currently in the Science-Learning Stage and wanting to be a Software Engineer in the future. Visit [my current progress & roadmap](https://github.com/OmarShawky1/CS-Roadmap).
 
-- 🌱 I’m currently learning Algorithms & Data Structure by Princeton University.
+- 🌱 I’m currently looking for a full-time Software Engineering opening.
 
 <br>
 
